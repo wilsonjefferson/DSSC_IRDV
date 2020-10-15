@@ -1,2 +1,3 @@
-# DSSC_IRDV
+# DSSC: Information Retrieval and Data Visualization
+
 Information Retrieval and Data Visualization - master's degree course 
